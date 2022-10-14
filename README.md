@@ -6,10 +6,7 @@ Roll no :
 
 Date of experiment :
 
-
-
-Experiment . No. :5
-Date: 
+ 
 
 
 ## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller 
