@@ -14,8 +14,10 @@ Date:
 
 ## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller 
 
-## Aim: To Interface 16X2 type LCD display to LPC2148 ARM 7 and write a code for displaying a string to it
-## Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
+## Aim: 
+To Interface 16X2 type LCD display to LPC2148 ARM 7 and write a code for displaying a string to it
+## Components required:
+Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
 ## Theory 
  
 ## LCD16X2 
