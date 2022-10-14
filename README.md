@@ -1,4 +1,4 @@
-# EXP-05-Interfacing a 16X2 type LCD display to LPC2148 ARM 7-Microcontroller
+# EXP-05-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 
 Name :
 
@@ -20,30 +20,14 @@ Date:
  
 ## LCD16X2 
  
+ ![image](https://user-images.githubusercontent.com/36288975/195774401-e3bffb44-0d3d-4b7e-b374-7a7a7ef60d48.png)
 
 
- in Number	Symbol	Pin Function
  
  
  ![image](https://user-images.githubusercontent.com/36288975/195773232-ab5dd9b0-99b7-4663-9bdf-6665fa93a052.png)
 Fig.01 16X2 LCD DISPLAY 
 
-1	VSS	Ground
-2	VCC	+5v
-3	VEE	Contrast adjustment (VO)
-4	RS	Register Select. 0:Command, 1: Data
-5	R/W	Read/Write, R/W=0: Write & R/W=1: Read
-6	EN	Enable. Falling edge triggered
-7	D0	Data Bit 0 (Not used in 4-bit operation)
-8	D1	Data Bit 1 (Not used in 4-bit operation)
-9	D2	Data Bit 2 (Not used in 4-bit operation)
-10	D3	Data Bit 3 (Not used in 4-bit operation)
-11	D4	Data Bit 4
-12	D5	Data Bit 5
-13	D6	Data Bit 6
-14	D7	Data Bit 7/Busy Flag
-15	A/LED+	Back-light Anode(+)
-16	K/LED-	Back-Light Cathode(-)
 
 
 
